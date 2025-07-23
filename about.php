@@ -32,10 +32,9 @@ At Novotel, we believe that a great stay begins with genuine hospitality, comfor
 <div class="container">
   <div class="row justify-content-between align-items-center">
     <div class="col-lg-6 col-md-5 mb-4 order-lg-1 order-md-1 order-2">
-        <h3 class="mb-3">Lorem ipsum dolor sit.</h3>
+        <h3 class="mb-3">Our Commitment to You</h3>
         <p>
-            Lorem, ipsum dolor sit amet consectetur adipisicing elit. Rem, error!
-            Lorem, ipsum dolor sit amet consectetur adipisicing elit. Rem, error!
+             At Novotel, we are committed to providing you with an exceptional experience. Our dedicated team is here to ensure your stay is comfortable and memorable. From the moment you step into our lobby, you will be greeted with a warm smile and a genuine desire to make your visit special.
         </p>
     </div>
     <div class="col-lg-5 col-md-5 mb-4 order-lg-2 order-md-2 order-1">
