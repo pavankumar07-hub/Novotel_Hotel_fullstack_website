@@ -174,6 +174,6 @@ This project is licensed under the MIT License.
 
 ## Contact
 pavankumarpalaparthi2004@gmail.com
-+91 9652401393
+
 
 For questions or support, open an issue or contact the maintainer. 
