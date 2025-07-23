@@ -27,7 +27,7 @@
   <h2 class="fw-bold h-font text-center"> OUR FACILITIES</h2>
   <div class="h-line bg-dark"></div>
   <p class="text-center mt-3">
-    Lorem, ipsum dolor sit amet consectetur adipisicing elit. Praesentium nobis voluptatibus officiis, rem porro rerum nisi tenetur provident nihil voluptatem.
+    At our hotel, we strive to provide a comfortable and luxurious experience for all our guests. Our top-notch facilities include:
   </p>
 </div>
 
