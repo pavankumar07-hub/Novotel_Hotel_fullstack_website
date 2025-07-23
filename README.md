@@ -1,4 +1,4 @@
-# Novotel Hotel Fullstack Website
+# Simple_Hotel_Room_Booking
 
 A full-featured hotel booking web application built with PHP and MySQL.  
 Includes admin and user panels, booking management, email notifications (SendGrid), and more.
