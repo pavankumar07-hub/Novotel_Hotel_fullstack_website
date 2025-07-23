@@ -7,13 +7,20 @@ Includes admin and user panels, booking management, email notifications (SendGri
 
 ## Features
 
-- User registration, login, and password recovery
-- Room booking and management
-- Admin dashboard for managing bookings, rooms, facilities, and users
-- Email notifications using SendGrid
-- Secure handling of sensitive data using environment variables
-- Modern UI with Bootstrap
-
+1. Room Types & Availability
+- Admin can add/edit/delete room types (AC/Non-AC, Deluxe, etc.)
+- Set pricing and number of available rooms per type
+2. User Booking Flow
+- User registration and login
+- Select check-in/check-out dates and preferred room type
+- Real-time availability check and booking confirmation
+3. Booking Management
+- Admin can view, cancel, or modify bookings
+- Users can view their own booking history
+4. Calendar View & Reports
+- Calendar-style booking view for admin
+- Downloadable reports by date or room type
+- user can give Reviews on rooms 
 ---
 
 ## Project Structure
